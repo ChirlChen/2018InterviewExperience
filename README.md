@@ -10,5 +10,4 @@ The interview experience in 2017 campus recruitment.
   
 | 分享人 | 面试岗位 | 公司 | 最后更新时间 | 备注 |
 | :---| :----| :----| :---:|:-----|
-|[ChirlChen](./IEFs/ChirlChen.md)| 后台开发(C++)、运维| 阿里、[华为](./IEFs/ChirlChen.md#huawei)、百度、宜高美 | 2017.08.14| |
-
+|[ChirlChen](./IEFs/ChirlChen.md)| 后台开发(C++)、运维| [阿里](./IEFs/ChirlChen.md#mayijinfu)、[华为](./IEFs/ChirlChen.md#huawei)、[百度](./IEFs/ChirlChen.md#baidu_shanghai)、[宜高美](./IEFs/ChirlChen.md#yigaomei) | 2017.08.14| |

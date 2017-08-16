@@ -88,13 +88,13 @@
    - **操作系统：** <br>
 	  1. 进程的内存分布？[参考文章](http://www.cnblogs.com/Lynn-Zhang/p/5449199.html) <br>
 	  2. malloc申请的内存在那个区？自由存储区； <br>
-	  3. 进程间通信？[参考文献](http://blog.csdn.net/u014774781/article/details/45485735) <br>
+	  3. 进程间通信？[参考文章](http://blog.csdn.net/u014774781/article/details/45485735) <br>
 	  4. 进程通信的信号中哪些信号是可拦截的？ <br>
 	  5. Linux下开发调试经验（GDB使用、Bug定位等等）？ <br>
       
    - **网络编程：** <br>
-	  1. 基本的socket用法？ <br>
-	  2. 是否用过非阻塞模型？select、poll与epoll的区别？ <br>
+	  1. 基本的socket用法？ [参考文章](http://blog.csdn.net/hguisu/article/details/38638183#t5) <br>
+	  2. 是否用过非阻塞模型？select、poll与epoll的区别？ [参考文章](http://blog.csdn.net/hguisu/article/details/38638183#t5) <br>
 		 
    - **设计模式：** <br>
 	  1. 平常用过哪些设计模式？ <br>

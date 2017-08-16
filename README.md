@@ -12,6 +12,10 @@ The interview experience in 2017 campus recruitment.
 | 分享人 | 面试岗位 | 面试公司 | 最后更新时间 | 备注 |
 | :--- | :---- | :---- | :---: | :----- | 
 |[ChirlChen](./IEFs/ChirlChen.md)| 后台开发(C++)、运维| [阿里](./IEFs/ChirlChen.md#mayijinfu)、[华为](./IEFs/ChirlChen.md#huawei)、[百度](./IEFs/ChirlChen.md#baidu_shanghai)、[宜高美](./IEFs/ChirlChen.md#yigaomei) | 2017.08.14| |
+|[YangWu](./IEFs/YangWu.md) | Java | [阿里](./IEFs/YangWu.md#ali)、[腾讯](./IEFs/YangWu.md#tengxun) | 2017.08.16 | |
+|[LiuJing](./IEFs/LiuJing.md) | xxx | [CVTE](./IEFs/LiuJing.md#cvte)| 2017.08.16 | |
+|[YanBo](./IEFs/YanBo.md) | xxx | [阿里](./IEFs/YanBo.md#ali)| 2017.08.16 | |
+ 
  
 ## 招聘信息
 > **提示：** 以下信息收集自网络，是否采信请自斟酌。笔者利益无关，只是做个分享，对此信息**不负任何责任**。

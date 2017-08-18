@@ -22,7 +22,7 @@ The interview experience in 2017 campus recruitment.
 |[LiuJing](./IEFs/LiuJing.md) | xxx | [CVTE](./IEFs/LiuJing.md#cvte)| 2017.08.16 | |
 |[YanBo](./IEFs/YanBo.md) | xxx | [阿里](./IEFs/YanBo.md#ali)、[CVTE](./IEFs/YanBo.md#cvte)| 2017.08.16 | |
 |[ZhangYun](./IEFs/ZhangYun.md) | xxx | [携程](./IEFs/ZhangYun.md#xiecheng)| 2017.08.17 | |
-|[WangHaoLong](./IEFs/WangHaoLong.md) | xxx | [拼多多](./IEFs/WangHaoLong.md#pinduoduo)| 2017.08.17 |更新拼多二面 |
+|[WangHaoLong](./IEFs/WangHaoLong.md) | C++后台 | [拼多多](./IEFs/WangHaoLong.md#pinduoduo)| 2017.08.17 |更新拼多多二面 |
 |[NanerLee](./IEFs/NanerLee.md) | C++ | [阿里](./IEFs/NanerLee.md#阿里巴巴) [腾讯](./IEFs/NanerLee.md#腾讯) | 2017.8.18 | 初次添加 |
 
 

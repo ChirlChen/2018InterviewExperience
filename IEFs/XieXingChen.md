@@ -77,54 +77,54 @@
 
     **话题一：**
 
-        - HashMap与HashSet有什么区别？
-        - hashMap可以key为空或者value为空吗？可以同时为空吗？
-        - HashSet有什么特点？
+        1. HashMap与HashSet有什么区别？
+        2. hashMap可以key为空或者value为空吗？可以同时为空吗？
+        3. HashSet有什么特点？
    
     **话题二：**
 
-        - HashMap底层是怎么实现的？
+        1. HashMap底层是怎么实现的？
           1.6：数组+链表
           1.8：数组+链表/红黑树
-        - 为什么要二次hash？谈谈扩容|什么时候扩容？     
-        - HashMap与Hashtable有什么区别吗？
-        - Hashtable加同步锁有什么问题？能不能有更好的实现方式？
-        - ConcurrentHashMap底层怎么实现的？怎么保证同步的（CAS）？
+        2. 为什么要二次hash？谈谈扩容|什么时候扩容？     
+        3. HashMap与Hashtable有什么区别吗？
+        4. Hashtable加同步锁有什么问题？能不能有更好的实现方式？
+        5. ConcurrentHashMap底层怎么实现的？怎么保证同步的（CAS）？
 
     **话题三：**
 
-        - 如果前面的，你都答出来了？
-        - 什么是CAS？它synchronized有什么区别？
-        - 谈谈synchronized？
-        - 能谈一下volatile吗？
+        1. 如果前面的，你都答出来了？
+        2. 什么是CAS？它synchronized有什么区别？
+        3. 谈谈synchronized？
+        4. 能谈一下volatile吗？
 
     - 6、JVM连环炮+并发编程？
     
     **话题一：**
-        - 1、谈谈内存区域？
+        1. 谈谈内存区域？
         堆、栈、方法区、（程序计算器、本地方法栈 ）|可以不谈
-        - 2、堆、栈、方法区分别有什么用？存储什么内容？
-        - 3、能谈谈堆吗？
+        2. 堆、栈、方法区分别有什么用？存储什么内容？
+        3. 能谈谈堆吗？
         新生代、老年代
-        - 4、怎么判断对象不可用？
-        - 5、能谈一下GC策略吗？它是怎么回收不可用对象的？
+        4. 怎么判断对象不可用？
+        5. 能谈一下GC策略吗？它是怎么回收不可用对象的？
           标记-清除，复制、标记-整理、分代。
-        - 6、能谈一下垃圾回收器吗?(暂无碰见问的)
-        - 7、对象怎么分配的？
+        6. 能谈一下垃圾回收器吗?(暂无碰见问的)
+        7. 对象怎么分配的？
 
     **话题二：**
 
-        - 1、谈一下类加载过程？
-        - 2、谈一下双亲委派机制？
+        1. 谈一下类加载过程？
+        2. 谈一下双亲委派机制？
     
     **话题三：**
 
-        - 1、谈一下Java内存模型
-        - 2、谈一下Synchronized、volatile？
-        - 3、谈一下AQS、CountDownLatch、ReentrantLock？（暂时还没有人问）
-        - 4、谈一下ThreadLocal？
-        - 5、谈一下CAS？
-        - 6、谈一下线程池原理？
+        1. 谈一下Java内存模型
+        2. 谈一下Synchronized、volatile？
+        3. 谈一下AQS、CountDownLatch、ReentrantLock？（暂时还没有人问）
+        4. 谈一下ThreadLocal？
+        5. 谈一下CAS？
+        6. 谈一下线程池原理？
  
 
 - 二、设计模式

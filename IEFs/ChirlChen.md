@@ -22,15 +22,15 @@
 - **工程经验：** <br>
 	调试技巧，Bug定位，以前项目中遇到过的困难，解决该困难的思路等等；
 - **计算机基础知识：** <br>	 
-	1. 最基本的Socket服务器客服端模型 (图片来自网络)；
+    1. 最基本的Socket服务器客服端模型 (图片来自网络)；
 	![最基本的Socket服务器客服端模型](http://img.blog.csdn.net/20160823194343188) <br> 
-	2. 宏定义的缺点：参考Blog中[条款二](http://blog.csdn.net/qqmindyourwill/article/details/52276505)；<br>
-	3. 虚函数的作用：动态多态；<br>
-	4. 子类被delete时会调用父类析构函数么：会。这里有个相关的点——如果delete的指针如果是一个父类指针指向子类，就需要父类的**析构函数是虚函数**，才能成功调用到子类的析构函数，否则只会析构父类的部分，导致内存泄露。所以，如果设计的类只要有被继承的可能，那就尽量将其析构函数设置为虚函数。<br>
-	5. 是否熟悉Linux，是否会写makefile？<br>
-	6. fork()返回两次的实现原理？[参考文章。](http://blog.csdn.net/barfoo/article/details/1626938)<br>
-	7. fork()创建子进程的具体过程？[参考文章。](http://blog.csdn.net/yangcs2009/article/details/39267733) <br>
-	8. 大致就这些吧，其他问题不记得了。
+    2. 宏定义的缺点：参考Blog中[条款二](http://blog.csdn.net/qqmindyourwill/article/details/52276505)；<br>
+    3. 虚函数的作用：动态多态；<br>
+    4. 子类被delete时会调用父类析构函数么：会。这里有个相关的点——如果delete的指针如果是一个父类指针指向子类，就需要父类的**析构函数是虚函数**，才能成功调用到子类的析构函数，否则只会析构父类的部分，导致内存泄露。所以，如果设计的类只要有被继承的可能，那就尽量将其析构函数设置为虚函数。<br>
+    5. 是否熟悉Linux，是否会写makefile？<br>
+    6. fork()返回两次的实现原理？[参考文章。](http://blog.csdn.net/barfoo/article/details/1626938)<br>
+    7. fork()创建子进程的具体过程？[参考文章。](http://blog.csdn.net/yangcs2009/article/details/39267733) <br>
+    8. 大致就这些吧，其他问题不记得了。
 	
 - **算法：** <br>
    1. 设计一个栈，使得其push、pop、以及返回当前栈中最小值的时间复杂度都为<img src="http://chart.googleapis.com/chart?cht=tx&chl=O(1)" style="border:none;">：当时没搞出来（捂脸哭）。后来发现就是《剑指offer》上面的一道题，答案请[参考](https://github.com/ChirlChen/AcceptedCode/blob/master/NowCoder/CodingInterviews/20.h)。 <br>

@@ -1,6 +1,6 @@
 # 2017InterviewExperience
 The interview experience in 2017 campus recruitment.
-## 项目目的
+## 项目说明
 - 主要用于分享2017~2018学年校园招聘面试经验。个人发现面试结束，花一个小时半个小时对自己的面试进行一下总结，真的能更好的积累知识，增长经验。所以在此立贴督促自己，也欢迎大家一起参与进来实时的分享面经，**争取前面人家趟过的坑，后面的同学绝不再趟**。愿大家相互协作，共同提高，最终都找到如意的工作！
 - 同样为找工作做准备的几个仓库：
     - **OJ刷题**思路分享和代码记录的仓库：
@@ -18,7 +18,7 @@ The interview experience in 2017 campus recruitment.
 | 分享人 | 面试岗位 | 面试公司 | 最后更新时间 | 备注 |
 | :--- | :---- | :---- | :---: | :----- |
 |[ChirlChen](./IEFs/ChirlChen.md)| 后台开发(C++)、运维| [阿里](./IEFs/ChirlChen.md#mayijinfu)、[华为](./IEFs/ChirlChen.md#huawei)、[百度](./IEFs/ChirlChen.md#baidu_shanghai)、[宜高美](./IEFs/ChirlChen.md#yigaomei) | 2017.08.16| 更新百度二面 |
-|[YangWu](./IEFs/YangWu.md) | Java | [阿里](./IEFs/YangWu.md#ali)、[腾讯](./IEFs/YangWu.md#tengxun)、[王者荣耀](./IEFs/YangWu.md#wangzherongyao) | 2017.08.16 | 更新王者面试 |
+|[YangWu](./IEFs/YangWu.md) | Java | [阿里](./IEFs/YangWu.md#ali)、[腾讯](./IEFs/YangWu.md#tengxun)、[王者荣耀](./IEFs/YangWu.md#wangzherongyao)、[网易](./IEFs/YangWu.md#wangyi) | 2017.08.16 | 更新网易面试 |
 |[LiuJing](./IEFs/LiuJing.md) | xxx | [CVTE](./IEFs/LiuJing.md#cvte)| 2017.08.16 | |
 |[YanBo](./IEFs/YanBo.md) | xxx | [阿里](./IEFs/YanBo.md#ali)、[CVTE](./IEFs/YanBo.md#cvte)| 2017.08.16 | |
 |[ZhangYun](./IEFs/ZhangYun.md) | xxx | [携程](./IEFs/ZhangYun.md#xiecheng)| 2017.08.17 | |

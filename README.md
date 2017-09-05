@@ -18,14 +18,25 @@ The interview experience in 2017 campus recruitment.
 | 分享人 | 面试岗位 | 面试公司 | 最后更新时间 | 备注 |
 | :--- | :---- | :---- | :---: | :----- |
 |[ChirlChen](./IEFs/ChirlChen.md)| 后台开发(C++)、运维| [阿里](./IEFs/ChirlChen.md#mayijinfu)、[华为](./IEFs/ChirlChen.md#huawei)、[百度](./IEFs/ChirlChen.md#baidu_shanghai)、[宜高美](./IEFs/ChirlChen.md#yigaomei) | 2017.08.16| 更新百度二面 |
-|[YangWu](./IEFs/YangWu.md) | Java | [阿里](./IEFs/YangWu.md#ali)、[腾讯](./IEFs/YangWu.md#tengxun)、[网易](./IEFs/YangWu.md#wangyi) | 2017.08.16 | 更新网易面试 |
+|[YangWu](./IEFs/YangWu.md) | Java | [阿里](./IEFs/YangWu.md#ali)、[腾讯](./IEFs/YangWu.md#tengxun)、[网易](./IEFs/YangWu.md#wangyi)、[百度系统部](./IEFs/YangWu.md#baidu_xitongbu) | 2017.09.05 | 添加百度系统部面试 |
 |[LiuJing](./IEFs/LiuJing.md) | xxx | [CVTE](./IEFs/LiuJing.md#cvte)| 2017.08.16 | |
 |[YanBo](./IEFs/YanBo.md) | xxx | [阿里](./IEFs/YanBo.md#ali)、[CVTE](./IEFs/YanBo.md#cvte)| 2017.08.16 | |
-|[ZhangYun](./IEFs/ZhangYun.md) | xxx | [携程](./IEFs/ZhangYun.md#xiecheng)、[阿里云](./IEFs/ZhangYun.md#aliyun)| 2017.09.04 | 添加阿里云面试 |
+|[ZhangYun](./IEFs/ZhangYun.md) | C++ | [携程](./IEFs/ZhangYun.md#xiecheng)、[阿里云](./IEFs/ZhangYun.md#aliyun)、[百度系统部](./IEFs/YangWu.md#baidu_xitong) | 2017.09.05 | 添加百度系统部面试 |
 |[WangHaoLong](./IEFs/WangHaoLong.md) | C++后台 | [拼多多](./IEFs/WangHaoLong.md#pinduoduo)| 2017.08.17 |更新拼多多二面 |
 |[NanerLee](./IEFs/NanerLee.md) | C++ | [阿里](./IEFs/NanerLee.md#阿里巴巴) [腾讯](./IEFs/NanerLee.md#腾讯) | 2017.8.18 | 初次添加 |
 |[XieXingChen](./IEFs/XieXingChen.md) | Java | [百度](./IEFs/XieXingChen.md#baidu)  | 2017.8.24 | 初次添加 |
 
 
+## 科大校园宣讲会
+> ** 声明：** 以下信息收集自网络，仅作信息分享之用，不敢保证百分百准确，是否采信亲自斟酌，笔者不负任何责任。
+
+| 日期 | 时间 | 公司 | 地点 | 网申 |备注|
+| :--: | :--: | :-- | :--- |:--- |:--- |
+| 2017/9/5 | 19:00| 百度 | 立人楼B318| http://talent.baidu.com/external/baidu/campus.html | 
+| 2017/9/10 | 19:00 |网易       |   清水河校区立人楼B101 | http://url.163.com/QeF|
+| 2017/9/20|19:00 | 网龙网络    | 学生活动中心九洲厅 | http://campus.51job.com/2018nd| 
+| 2017/10/11  | 19:00 | ThoughtWorks   |清水河校区 学生活动中心201 | http://join.thoughtworks.cn/ |
+
+ 
 ## 相关疑问
  请联系：ChirlChen@163.com

@@ -26,6 +26,7 @@ The interview experience in 2017 campus recruitment.
 |[NanerLee](./IEFs/NanerLee.md) | C++ | [阿里](./IEFs/NanerLee.md#阿里巴巴) [腾讯](./IEFs/NanerLee.md#腾讯) | 2017/8/18 | 初次添加 |
 |[XieXingChen](./IEFs/XieXingChen.md) | Java | [百度](./IEFs/XieXingChen.md#baidu)  | 2017/8/24 | 初次添加 |
 |[LiuDong](./IEFs/LiuDong.md) | C++ | [百度系统部](./IEFs/LiuDong.md#baidu_xitongbu) |2017/9/5 | 添加百度系统部面试 |
+|[HongXiaoYi](./IEFs/HongXiaoYi.md) | C++ | [百度](./IEFs/HongXiaoYi.md#baidu) |2017/9/6 | 添加百度面试 |
 
 ## 科大校园宣讲会
 > ** 声明：** 以下信息收集自网络，仅作信息分享之用，不敢保证百分百准确，是否采信亲自斟酌，笔者不负任何责任。

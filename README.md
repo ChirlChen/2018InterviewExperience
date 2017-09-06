@@ -29,11 +29,10 @@ The interview experience in 2017 campus recruitment.
 |[HongXiaoYi](./IEFs/HongXiaoYi.md) | C++ | [百度](./IEFs/HongXiaoYi.md#baidu) |2017/9/6 | 添加百度面试 |
 
 ## 科大校园宣讲会
-> ** 声明：** 以下信息收集自网络，仅作信息分享之用，不敢保证百分百准确，是否采信亲自斟酌，笔者不负任何责任。
+> **声明：** 以下信息收集自网络，仅作信息分享之用，不敢保证百分百准确，是否采信亲自斟酌，笔者不负任何责任。
 
 | 日期 | 时间 | 公司 | 地点 | 网申 |备注|
 | :--: | :--: | :-- | :--- |:--- |:--- |
-| 2017/9/5 | 19:00| 百度 | 立人楼B318| http://talent.baidu.com/external/baidu/campus.html | 
 | 2017/9/10 | 19:00 |网易       |   清水河校区立人楼B101 | http://url.163.com/QeF|
 | 2017/9/20|19:00 | 网龙网络    | 学生活动中心九洲厅 | http://campus.51job.com/2018nd| 
 | 2017/10/11  | 19:00 | ThoughtWorks   |清水河校区 学生活动中心201 | http://join.thoughtworks.cn/ |

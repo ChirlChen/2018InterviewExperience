@@ -199,7 +199,7 @@
 - 研究方向相关：数据恢复是处理的什么样的数据，用的什么算法，其中的原理。
 - 熟悉机器学习算法吗？讲讲K-Means聚类过程。K-Means初始化类中心有什么局限或则缺点吗？
 - 概率题：一副牌中除去大小王，剩下52张牌中随机抽出两张，红、黑牌各一张的概率是多少？ 
-    - 答：分母第一次从52张里面抽出1张，第二次从51张里面抽出1张，所以就是<img src="http://chart.googleapis.com/chart?cht=tx&chl={1 \choose 52} \times {1 \choose 51} " style="border:none;">。分子如果第一次抽出红牌，第二次抽出黑牌，就是 <img src="http://chart.googleapis.com/chart?cht=tx&chl={1\choose 26} \times {1\choose 26} " style="border:none;">，反过来第一次抽出黑牌，第二次抽出红牌，也是 <img src="http://chart.googleapis.com/chart?cht=tx&chl={1\choose 26} \times {1\choose 26} " style="border:none;">。 所以最后概率为：  <img src="http://chart.googleapis.com/chart?cht=tx&chl=P=\frac{2 \times {1\choose 26} \times {1\choose 26}}{{1 \choose 52} \times {1 \choose 51}} = \frac{26}{51} " style="border:none;"> 。 麻蛋，当时面试没有乘2，答了个<img src="http://chart.googleapis.com/chart?cht=tx&chl=\frac{13}{51} " style="border:none;">。
+    - 答：分母第一次从52张里面抽出1张，第二次从51张里面抽出1张，所以就是<img src="http://chart.googleapis.com/chart?cht=tx&chl={1\choose52}\times {1\choose51}" style="border:none;">。分子如果第一次抽出红牌，第二次抽出黑牌，就是 <img src="http://chart.googleapis.com/chart?cht=tx&chl={1\choose 26} \times {1\choose 26} " style="border:none;">，反过来第一次抽出黑牌，第二次抽出红牌，也是 <img src="http://chart.googleapis.com/chart?cht=tx&chl={1\choose 26} \times {1\choose 26} " style="border:none;">。 所以最后概率为：  <img src="http://chart.googleapis.com/chart?cht=tx&chl=P=\frac{2 \times {1\choose 26} \times {1\choose 26}}{{1 \choose 52} \times {1 \choose 51}} = \frac{26}{51} " style="border:none;"> 。 麻蛋，当时面试没有乘2，答了个<img src="http://chart.googleapis.com/chart?cht=tx&chl=\frac{13}{51} " style="border:none;">。
 -  进程与线程的区别？
     - 答：
         1. 进程有自己独立的地址空间，线程有自己的堆栈和局部变量，但是没有独立的内存空间，多个线程共享内存；

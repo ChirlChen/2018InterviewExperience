@@ -2,10 +2,10 @@
 
 | 公司 | 应聘岗位 |面试时间段 |
 | :------------- |:-------------|:-------------|
-|[百度](#baidu) | Java |   |
-
+|[百度内推](#baidu) | Java |   |
+|[百度系统部](#baidu_xitongbu) | Java| |
 ----
-### <a id="baidu"> 百度 </a>
+### <a id="baidu"> 百度内推 </a>
 #### **一面：** 数据结构、网络、操作系统
     
 - 一、计算机网络
@@ -141,7 +141,31 @@
     - 1、一个很大的日记文件，统计出访问排行？
     - 2、mapreduce思想？谈谈shuffle？
 
-
+----
+### <a id="baidu_xitongbu"> 百度系统部 </a>
+#### **一面：**
+- 1、	自我介绍
+- 2、	多线程多进程，java中的多线程，怎么实现。
+- 3、	Java中的HashMap怎么实现，与hashTable区别。
+- 4、	重载和重写 
+    - 参考答案：
+        - C++重载，重写，隐藏：http://www.jb51.net/article/54225.htm
+        - Java重载和重写 ：http://www.cnblogs.com/bluestorm/archive/2012/03/01/2376236.html
+- 5、	Java GC
+- 6、	迭代器怎么实现
+- 7、	Python中的单引号，双引号，三引号的作用。
+- 8、	Python中的copy
+- 9、	Python的垃圾回收与java的区别
+- 10、	Python的赋值和引用
+- 11、	Python中元组与列表区别
+- 12、	mongoDB的命名空间
+- 13、	mongoDB如何进行复合查找
+- 14、	给了一个Mysql查询语句，然后转成mongoDB的查询语句。
+- 15、	Mysql与MongoDB的区别。
+- 16、	Mysql常用的引擎及其区别。
+- 17、	Linux中的命令考查，文件系统中proc是干什么的。
+- 18、	OSI模型，TCP/IP模型，TCP与UDP区别，网关有什么用，各个应用协议的端口号，ARP,DNS,OSPF,BGP,ICMP协议考查。
+- 19、	常用的数据结构和算法会那些。
 
 
 

@@ -1,6 +1,7 @@
 *.pdf
 !*.md
 ref.md
+knowledge.md
 
 # Others
 sql/

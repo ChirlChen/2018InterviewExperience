@@ -24,7 +24,7 @@ The interview experience in 2017 campus recruitment.
 |[ZhangYun](./IEFs/ZhangYun.md) | C++ | [携程](./IEFs/ZhangYun.md#xiecheng)、[阿里云](./IEFs/ZhangYun.md#aliyun)、[百度系统部](./IEFs/ZhangYun.md#baidu_xitongbu)、[搜狗](./IEFs/ZhangYun.md#sougou) | 2017/09/12 | 添加搜狗面试 |
 |[WangHaoLong](./IEFs/WangHaoLong.md) | C++后台 | [拼多多](./IEFs/WangHaoLong.md#pinduoduo)| 2017/08/17 |更新拼多多二面 |
 |[NanerLee](./IEFs/NanerLee.md) | C++ | [阿里](./IEFs/NanerLee.md#阿里巴巴) [腾讯](./IEFs/NanerLee.md#腾讯) | 2017/8/18 | 初次添加 |
-|[XieXingChen](./IEFs/XieXingChen.md) | Java | [百度](./IEFs/XieXingChen.md#baidu)、[百度系统部](./IEFs/XieXingChen.md#baidu_xitongbu)、[电信IT](./IEFs/XieXingChen.md#dianxin_it)  | 2017/9/13 | 添加电信IT部面试 |
+|[XieXingChen](./IEFs/XieXingChen.md) | Java | [百度](./IEFs/XieXingChen.md#baidu)、[百度系统部](./IEFs/XieXingChen.md#baidu_xitongbu)、[电信IT](./IEFs/XieXingChen.md#dianxin_it)、[搜狐](./IEFs/XieXingChen.md#sohu)  | 2017/9/14 | 添加搜狐面试 |
 |[LiuDong](./IEFs/LiuDong.md) | C++ | [百度系统部](./IEFs/LiuDong.md#baidu_xitongbu) |2017/9/5 | 添加百度系统部面试 |
 |[HongXiaoYi](./IEFs/HongXiaoYi.md) | C++ | [百度](./IEFs/HongXiaoYi.md#baidu) |2017/9/6 | 添加百度面试 |
 |[ShuaiLing](./IEFs/ShuaiLing.md) | C++ | [百度系统部](./IEFs/ShuaiLing.md#baidu_xitongbu) |2017/9/7 | 添加百度面试 |
@@ -33,7 +33,7 @@ The interview experience in 2017 campus recruitment.
 |[YangRui](./IEFs/YangRui.md) | C++ | [电信IT](./IEFs/YangRui.md#dianxin_it) |2017/9/13 | 电信IT面试 |
 |[ZhouChengYang](./IEFs/ZhouChengYang.md) | C++ | [电信IT](./IEFs/ZhouChengYang.md#dianxin_it) |2017/9/13 | 电信IT面试 |
 |[ZhaoHaiLin](./IEFs/ZhaoHaiLin.md) | Java | [招银](./IEFs/ZhaoHaiLin.md#zhaoyin) |2017/9/13 | 招银面试 |
-|[LiWenHao](./IEFs/LiWenHao.md) | C++ | [招银](./IEFs/LiWenHao.md#zhaoyin) |2017/9/14 | 招银面试 |
+|[LiWenHao](./IEFs/LiWenHao.md) | 后台开发、算法工程师 | [招银](./IEFs/LiWenHao.md#zhaoyin)、[搜狐](./IEFs/LiWenHao.md#sohu) |2017/9/15 | 招银面试 |
 |[LiMing](./IEFs/LiMing.md) | C++ | [招银](./IEFs/LiMing.md#zhaoyin) |2017/9/14 | 招银面试 |
 
 ## 相关疑问

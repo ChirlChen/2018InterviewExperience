@@ -30,7 +30,6 @@ The interview experience in 2017 campus recruitment.
 |[ShuaiLing](./IEFs/ShuaiLing.md) | C++ | [百度系统部](./IEFs/ShuaiLing.md#baidu_xitongbu) |2017/9/7 | 添加百度面试 |
 |[WangSanSan](./IEFs/WangSanSan.md) | C++ | [搜狗](./IEFs/WangSanSan.md#sougou) |2017/9/12 | 搜狗面试 |
 |[YangRui](./IEFs/YangRui.md) | C++ | [电信IT](./IEFs/YangRui.md#dianxin_it) |2017/9/13 | 电信IT面试 |
-|[YangRui](./IEFs/YangRui.md) | C++ | [电信IT](./IEFs/YangRui.md#dianxin_it) |2017/9/13 | 电信IT面试 |
 |[ZhouChengYang](./IEFs/ZhouChengYang.md) | C++ | [电信IT](./IEFs/ZhouChengYang.md#dianxin_it) |2017/9/13 | 电信IT面试 |
 |[ZhaoHaiLin](./IEFs/ZhaoHaiLin.md) | Java | [招银](./IEFs/ZhaoHaiLin.md#zhaoyin) |2017/9/13 | 招银面试 |
 |[LiWenHao](./IEFs/LiWenHao.md) | 后台开发、算法工程师 | [招银](./IEFs/LiWenHao.md#zhaoyin)、[搜狐](./IEFs/LiWenHao.md#sohu) |2017/9/15 | 搜狐面试 |

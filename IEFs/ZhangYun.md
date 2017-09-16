@@ -54,3 +54,36 @@
 4. 链表排序，手写
 5. 一个排序算法，手写
 6. 守护进程，select epoll
+
+----
+### <a id="wangyi_youdao"> 网易有道 </a>
+#### 视频面
+- 1、自我介绍，项目介绍。
+- 2、ARP协议，ARP攻击，ping原理，tracert原理，http与https区别。
+- 3、中断，临界区，进程状态转换过程。
+- 4、指针和引用的区别。虚函数表。new 和malloc区别，深拷贝浅拷贝和各自优缺点，避免的方式。容器迭代器失效情况，list实现了sort函数，为什么vector没实现。
+- 5、
+``` C++
+    struct Base
+    {
+          virtual void func(int i = 1)
+          {
+                cout << "Base " << i << endl;
+          }
+    };
+    struct Derived: public Base
+    {
+          void func(int i = 2)
+          {
+                cout << "Derived " << i << endl;
+          }
+    };
+    int main(int argc, char* argv[])
+    {
+          Base b;
+          Derived* pb = (Derived*)&b;
+          pb->func();
+    }
+```
+
+- 6、写代码，顺时针打印矩阵。

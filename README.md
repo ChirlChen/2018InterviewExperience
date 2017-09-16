@@ -27,7 +27,7 @@ The interview experience in 2017 campus recruitment.
 |[XieXingChen](./IEFs/XieXingChen.md) | Java | [百度](./IEFs/XieXingChen.md#baidu)、[百度系统部](./IEFs/XieXingChen.md#baidu_xitongbu)、[电信IT](./IEFs/XieXingChen.md#dianxin_it)、[搜狐](./IEFs/XieXingChen.md#sohu)  | 2017/9/14 | 添加搜狐面试 |
 |[LiuDong](./IEFs/LiuDong.md) | C++ | [百度系统部](./IEFs/LiuDong.md#baidu_xitongbu) |2017/9/5 | 添加百度系统部面试 |
 |[HongXiaoYi](./IEFs/HongXiaoYi.md) | C++ | [百度](./IEFs/HongXiaoYi.md#baidu) |2017/9/6 | 添加百度面试 |
-|[ShuaiLing](./IEFs/ShuaiLing.md) | C++ | [百度系统部](./IEFs/ShuaiLing.md#baidu_xitongbu) |2017/9/7 | 添加百度面试 |
+|[ShuaiLing](./IEFs/ShuaiLing.md) | C++ | [百度系统部](./IEFs/ShuaiLing.md#baidu_xitongbu)、[58同城](./IEFs/ShuaiLing.md#58) |2017/9/16 | 添加58完整面试 |
 |[WangSanSan](./IEFs/WangSanSan.md) | C++ | [搜狗](./IEFs/WangSanSan.md#sougou) |2017/9/12 | 搜狗面试 |
 |[YangRui](./IEFs/YangRui.md) | C++ | [电信IT](./IEFs/YangRui.md#dianxin_it) |2017/9/13 | 电信IT面试 |
 |[ZhouChengYang](./IEFs/ZhouChengYang.md) | C++ | [电信IT](./IEFs/ZhouChengYang.md#dianxin_it) |2017/9/13 | 电信IT面试 |

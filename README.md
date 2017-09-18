@@ -17,7 +17,7 @@ The interview experience in 2017 campus recruitment.
 
 | 分享人 | 面试岗位 | 面试公司 | 最后更新时间 | 备注 |
 | :--- | :---- | :---- | :---: | :----- |
-|[ChirlChen](./IEFs/ChirlChen.md)| 后台开发(C++)、运维、<br>人工智能研发工程师、算法工程师| [阿里](./IEFs/ChirlChen.md#mayijinfu)、[华为](./IEFs/ChirlChen.md#huawei)、[百度内推](./IEFs/ChirlChen.md#baidu_shanghai)、[宜高美](./IEFs/ChirlChen.md#yigaomei)、[多益](./IEFs/ChirlChen.md#duoyi)、[搜狗](./IEFs/ChirlChen.md#sougou)、[百度校招](./IEFs/ChirlChen.md#baidu) 、[搜狐](./IEFs/ChirlChen.md#sohu)| 2017/9/15| 更新百度、搜狐面试|
+|[ChirlChen](./IEFs/ChirlChen.md)| 后台开发(C++)、运维、<br>人工智能研发工程师、算法工程师| [阿里](./IEFs/ChirlChen.md#mayijinfu)、[华为](./IEFs/ChirlChen.md#huawei)、[百度内推](./IEFs/ChirlChen.md#baidu_shanghai)、[宜高美](./IEFs/ChirlChen.md#yigaomei)、[多益](./IEFs/ChirlChen.md#duoyi)、[搜狗](./IEFs/ChirlChen.md#sougou)、[百度校招](./IEFs/ChirlChen.md#baidu) 、[搜狐](./IEFs/ChirlChen.md#sohu)、[中兴](./IEFs/ChirlChen.md#zhongxing)| 2017/9/18| 更新搜狗HR面，中兴1面|
 |[YangWu](./IEFs/YangWu.md) | Java | [阿里](./IEFs/YangWu.md#ali)、[腾讯](./IEFs/YangWu.md#tengxun)、[网易](./IEFs/YangWu.md#wangyi)、[百度系统部](./IEFs/YangWu.md#baidu_xitongbu) | 2017/09/05 | 添加百度系统部面试 |
 |[LiuJing](./IEFs/LiuJing.md) | C++ | [CVTE](./IEFs/LiuJing.md#cvte)、 [中兴](./IEFs/LiuJing.md#zhongxing)| 2017/9/18 | 中兴面试|
 |[YanBo](./IEFs/YanBo.md) | xxx | [阿里](./IEFs/YanBo.md#ali)、[CVTE](./IEFs/YanBo.md#cvte)| 2017/08/16 | |

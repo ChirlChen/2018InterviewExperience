@@ -7,16 +7,13 @@
 | :----| :--- | :----|
 | 研究生就业网 | http://www.jiuye.org/new/career/index.html|
 | 研究生就业信息网| http://yjsjob.uestc.edu.cn/|
-| ThoughtWorks | http://join.thoughtworks.cn/|
 | 微软 | www.joinms.com | |
 | 三七互娱 | http://zhaopin.37.com/ |
 | 酷狗 | http://campus.51job.com/kugou2018/ | 
-| 哔哩哔哩 | http://campus.chinahr.com/2018/bilibili/index.html|
 | 思科 | http://bbs.uestc.edu.cn/forum.php?mod=viewthread&tid=1682197 | 9月22日研发类笔试|
 | 航天信息集团 | https://www.dajie.com/corp/1004107/project/100594 |
-| 同花顺 | http://talent.10jqka.com.cn/default/usercenter/index/ |
 | 飞利浦| https://philips.wd3.myworkdayjobs.com/zh-CN/jobs-and-careers/jobs | （简历投递过程很简单）|
-| 绿盟 | http://applyjob.chinahr.com/page/job/success?projectId=598d3f8f7bb1ac014b4e7f96 |
+|IDG资本旗下公司|http://bbs.uestc.edu.cn/forum.php?mod=viewthread&tid=1683436&extra=page%3D1 |9月26日19:00-21:00-九洲厅|
 
 ----
 ## <a id="xuanjianghui"> 科大校园宣讲会 </a>

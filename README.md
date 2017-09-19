@@ -17,9 +17,9 @@ The interview experience in 2017 campus recruitment.
 
 | 分享人 | 面试岗位 | 面试公司 | 最后更新时间 | 备注 |
 | :--- | :---- | :---- | :---: | :----- |
-|[ChirlChen](./IEFs/ChirlChen.md)| 后台开发(C++)、运维、<br>人工智能研发工程师、算法工程师| [阿里](./IEFs/ChirlChen.md#mayijinfu)、[华为](./IEFs/ChirlChen.md#huawei)、[百度内推](./IEFs/ChirlChen.md#baidu_shanghai)、[宜高美](./IEFs/ChirlChen.md#yigaomei)、[多益](./IEFs/ChirlChen.md#duoyi)、[搜狗](./IEFs/ChirlChen.md#sougou)、[百度校招](./IEFs/ChirlChen.md#baidu) 、[搜狐](./IEFs/ChirlChen.md#sohu)、[中兴](./IEFs/ChirlChen.md#zhongxing)| 2017/9/18| 更新搜狗HR面，中兴1面|
+|[ChirlChen](./IEFs/ChirlChen.md)| 后台开发(C++)、运维、人工智能研发工程师、算法工程师| [阿里](./IEFs/ChirlChen.md#mayijinfu)、[华为](./IEFs/ChirlChen.md#huawei)、[百度内推](./IEFs/ChirlChen.md#baidu_shanghai)、[宜高美](./IEFs/ChirlChen.md#yigaomei)、[多益](./IEFs/ChirlChen.md#duoyi)、[搜狗](./IEFs/ChirlChen.md#sougou)、[百度校招](./IEFs/ChirlChen.md#baidu) 、[搜狐](./IEFs/ChirlChen.md#sohu)、[中兴](./IEFs/ChirlChen.md#zhongxing)| 2017/9/18| 更新搜狗HR面，中兴1面|
 |[YangWu](./IEFs/YangWu.md) | Java | [阿里](./IEFs/YangWu.md#ali)、[腾讯](./IEFs/YangWu.md#tengxun)、[网易](./IEFs/YangWu.md#wangyi)、[百度系统部](./IEFs/YangWu.md#baidu_xitongbu) | 2017/09/05 | 添加百度系统部面试 |
-|[LiuJing](./IEFs/LiuJing.md) | C++ | [CVTE](./IEFs/LiuJing.md#cvte)、 [中兴](./IEFs/LiuJing.md#zhongxing)| 2017/9/18 | 中兴面试|
+|[LiuJing](./IEFs/LiuJing.md) | C++ | [CVTE](./IEFs/LiuJing.md#cvte)、 [中兴](./IEFs/LiuJing.md#zhongxing)、[滴滴](./IEFs/LiuJing.md#didi)| 2017/9/19 | 滴滴面试 |
 |[YanBo](./IEFs/YanBo.md) | xxx | [阿里](./IEFs/YanBo.md#ali)、[CVTE](./IEFs/YanBo.md#cvte)| 2017/08/16 | |
 |[ZhangYun](./IEFs/ZhangYun.md) | C++ | [携程](./IEFs/ZhangYun.md#xiecheng)、[阿里云](./IEFs/ZhangYun.md#aliyun)、[百度系统部](./IEFs/ZhangYun.md#baidu_xitongbu)、[搜狗](./IEFs/ZhangYun.md#sougou)、[网易有道](./IEFs/ZhangYun.md#wangyi_youdao) | 2017/09/16 | 添加网易有道面试 |
 |[WangHaoLong](./IEFs/WangHaoLong.md) | C++后台 | [拼多多](./IEFs/WangHaoLong.md#pinduoduo)| 2017/08/17 |更新拼多多二面 |
@@ -35,6 +35,7 @@ The interview experience in 2017 campus recruitment.
 |[LiWenHao](./IEFs/LiWenHao.md) | 后台开发、算法工程师 | [招银](./IEFs/LiWenHao.md#zhaoyin)、[搜狐](./IEFs/LiWenHao.md#sohu)、[百度](./IEFs/LiWenHao.md#baidu) |2017/9/16 | 百度面试 |
 |[LiMing](./IEFs/LiMing.md) | C++ | [招银](./IEFs/LiMing.md#zhaoyin) |2017/9/14 | 招银面试 |
 |[ZhangJun](./IEFs/ZhangJun.md) | C++ | [大疆](./IEFs/ZhangJun.md#dajiang) | 2017/9/18 | 更新大疆 |
+|[CouQiao](./IEFs/CouQiao.md) | 测试开发（Java）| [滴滴](./IEFs/CouQiao.md#didi) | 2017/9/19 | 添加滴滴1~4面面经 |
 
 
 ## 相关疑问

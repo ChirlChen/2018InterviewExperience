@@ -19,7 +19,7 @@ The interview experience in 2017 campus recruitment.
 | :--- | :---- | :---- | :---: | :----- |
 |[ChirlChen](./IEFs/ChirlChen.md)| 后台开发(C++)、运维、人工智能研发工程师、算法工程师| [阿里](./IEFs/ChirlChen.md#mayijinfu)、[华为](./IEFs/ChirlChen.md#huawei)、[百度内推](./IEFs/ChirlChen.md#baidu_shanghai)、[宜高美](./IEFs/ChirlChen.md#yigaomei)、[多益](./IEFs/ChirlChen.md#duoyi)、[搜狗](./IEFs/ChirlChen.md#sougou)、[百度校招](./IEFs/ChirlChen.md#baidu) 、[搜狐](./IEFs/ChirlChen.md#sohu)、[中兴](./IEFs/ChirlChen.md#zhongxing)| 2017/9/18| 更新搜狗HR面，中兴1面|
 |[YangWu](./IEFs/YangWu.md) | Java | [阿里](./IEFs/YangWu.md#ali)、[腾讯](./IEFs/YangWu.md#tengxun)、[网易](./IEFs/YangWu.md#wangyi)、[百度系统部](./IEFs/YangWu.md#baidu_xitongbu) | 2017/09/05 | 添加百度系统部面试 |
-|[LiuJing](./IEFs/LiuJing.md) | C++ | [CVTE](./IEFs/LiuJing.md#cvte)、 [中兴](./IEFs/LiuJing.md#zhongxing)、[滴滴](./IEFs/LiuJing.md#didi)、[华为](./IEFs/LiuJing.md#huawei)| 2017/9/21 | 华为面试 |
+|[LiuJing](./IEFs/LiuJing.md) | C++ | [CVTE](./IEFs/LiuJing.md#cvte)、 [中兴](./IEFs/LiuJing.md#zhongxing)、[滴滴](./IEFs/LiuJing.md#didi)、[华为](./IEFs/LiuJing.md#huawei)、[招银](./IEFs/LiuJing.md#招银)、[好未来](./IEFs/LiuJing.md#好未来)| 2017/9/22 | 更新招银、好未来面试 |
 |[YanBo](./IEFs/YanBo.md) | xxx | [阿里](./IEFs/YanBo.md#ali)、[CVTE](./IEFs/YanBo.md#cvte)| 2017/08/16 | |
 |[ZhangYun](./IEFs/ZhangYun.md) | C++ | [携程](./IEFs/ZhangYun.md#xiecheng)、[阿里云](./IEFs/ZhangYun.md#aliyun)、[百度系统部](./IEFs/ZhangYun.md#baidu_xitongbu)、[搜狗](./IEFs/ZhangYun.md#sougou)、[网易有道](./IEFs/ZhangYun.md#wangyi_youdao) | 2017/09/16 | 添加网易有道面试 |
 |[WangHaoLong](./IEFs/WangHaoLong.md) | C++后台 | [拼多多](./IEFs/WangHaoLong.md#pinduoduo)| 2017/08/17 |更新拼多多二面 |

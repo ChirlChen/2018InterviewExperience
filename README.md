@@ -17,7 +17,7 @@ The interview experience in 2017 campus recruitment.
 
 | 分享人 | 面试岗位 | 面试公司 | 最后更新时间 | 备注 |
 | :--- | :---- | :---- | :---: | :----- |
-|[ChirlChen](./IEFs/ChirlChen.md)| 后台开发(C++)、运维、人工智能研发工程师、算法工程师| [阿里](./IEFs/ChirlChen.md#mayijinfu)、[华为](./IEFs/ChirlChen.md#huawei)、[百度内推](./IEFs/ChirlChen.md#baidu_shanghai)、[宜高美](./IEFs/ChirlChen.md#yigaomei)、[多益](./IEFs/ChirlChen.md#duoyi)、[搜狗](./IEFs/ChirlChen.md#sougou)、[百度校招](./IEFs/ChirlChen.md#baidu) 、[搜狐](./IEFs/ChirlChen.md#sohu)、[中兴](./IEFs/ChirlChen.md#zhongxing)、、[美团](./IEFs/ChirlChen.md#meituan)、[趋势科技](./IEFs/ChirlChen.md#趋势科技)、[链家](./IEFs/ChirlChen.md#链家)| 2017/9/23| 更新美团、趋势、链家|
+|[ChirlChen](./IEFs/ChirlChen.md)| 后台开发(C++)、运维、人工智能研发工程师、算法工程师| [阿里](./IEFs/ChirlChen.md#mayijinfu)、[华为](./IEFs/ChirlChen.md#huawei)、[百度内推](./IEFs/ChirlChen.md#baidu_shanghai)、[宜高美](./IEFs/ChirlChen.md#yigaomei)、[多益](./IEFs/ChirlChen.md#duoyi)、[搜狗](./IEFs/ChirlChen.md#sougou)、[百度校招](./IEFs/ChirlChen.md#baidu) 、[搜狐](./IEFs/ChirlChen.md#sohu)、[中兴](./IEFs/ChirlChen.md#zhongxing)、[美团](./IEFs/ChirlChen.md#meituan)、[小米](./IEFs/ChirlChen.md#xiaomi)、[趋势科技](./IEFs/ChirlChen.md#qushi)、[链家](./IEFs/ChirlChen.md#lianjia)| 2017/9/23| 更新美团、趋势、链家|
 |[YangWu](./IEFs/YangWu.md) | Java | [阿里](./IEFs/YangWu.md#ali)、[腾讯](./IEFs/YangWu.md#tengxun)、[网易](./IEFs/YangWu.md#wangyi)、[百度系统部](./IEFs/YangWu.md#baidu_xitongbu) | 2017/09/05 | 添加百度系统部面试 |
 |[LiuJing](./IEFs/LiuJing.md) | C++ | [CVTE](./IEFs/LiuJing.md#cvte)、 [中兴](./IEFs/LiuJing.md#zhongxing)、[滴滴](./IEFs/LiuJing.md#didi)、[华为](./IEFs/LiuJing.md#huawei)、[招银](./IEFs/LiuJing.md#招银)、[好未来](./IEFs/LiuJing.md#好未来)| 2017/9/22 | 更新招银、好未来面试 |
 |[YanBo](./IEFs/YanBo.md) | xxx | [阿里](./IEFs/YanBo.md#ali)、[CVTE](./IEFs/YanBo.md#cvte)| 2017/08/16 | |
@@ -36,6 +36,10 @@ The interview experience in 2017 campus recruitment.
 |[LiMing](./IEFs/LiMing.md) | C++ | [招银](./IEFs/LiMing.md#zhaoyin) |2017/9/14 | 招银面试 |
 |[ZhangJun](./IEFs/ZhangJun.md) | C++ | [大疆](./IEFs/ZhangJun.md#dajiang) | 2017/9/18 | 更新大疆 |
 |[CouQiao](./IEFs/CouQiao.md) | 测试开发（Java）| [滴滴](./IEFs/CouQiao.md#didi) | 2017/9/19 | 添加滴滴1~4面面经 |
-|[ChangJingBo](./IEFs/ChangJingBo.md) | C++ |[招银](./IEFs/ChangJingBo.md#招银) | 2017/9/21|   招银面经 |
+|[ChangJingBo](./IEFs/ChangJingBo.md) | 软开 C++ |[招银](./IEFs/ChangJingBo.md#招银) | 2017/9/21|   招银面经 |
+|[ChenWan](./IEFs/ChenWan.md) | 测试 |[海康威视](./IEFs/ChenWan.md#haikang) | 2017/9/23 |   海康威视面经 |
+
+
+
 ## 相关疑问
  请联系：ChirlChen@163.com

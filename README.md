@@ -17,7 +17,6 @@ The interview experience in 2017 campus recruitment.
 
 | 分享人 | 面试岗位 | 面试公司 | 最后更新时间 | 备注 |
 | :--- | :---- | :---- | :---: | :----- |
-|[QQ](./IEFs/QQ.md)| 后台开发(C++)、运维、算法工程师| [阿里](./IEFs/QQ.md#mayijinfu)、[华为](./IEFs/QQ.md#huawei)、[百度内推](./IEFs/QQ.md#baidu_shanghai)、[宜高美](./IEFs/QQ.md#yigaomei)、<br>[多益](./IEFs/QQ.md#duoyi)、[搜狗](./IEFs/QQ.md#sougou)、[百度校招](./IEFs/QQ.md#baidu) 、[搜狐](./IEFs/QQ.md#sohu)、<br>[中兴](./IEFs/QQ.md#zhongxing)、[美团](./IEFs/QQ.md#meituan)、[小米](./IEFs/QQ.md#xiaomi)、[趋势科技](./IEFs/ChirlChen.md#qushi)、<br>[链家](./IEFs/ChirlChen.md#lianjia)| 2017/9/23| 更新美团、趋势、链家|
 |[YangWu](./IEFs/YangWu.md) | Java | [阿里](./IEFs/YangWu.md#ali)、[腾讯](./IEFs/YangWu.md#tengxun)、[网易](./IEFs/YangWu.md#wangyi)、[百度系统部](./IEFs/YangWu.md#baidu_xitongbu) | 2017/09/05 | 添加百度系统部面试 |
 |[LiuJing](./IEFs/LiuJing.md) | C++ | [CVTE](./IEFs/LiuJing.md#cvte)、 [中兴](./IEFs/LiuJing.md#zhongxing)、[滴滴](./IEFs/LiuJing.md#didi)、[华为](./IEFs/LiuJing.md#huawei)、[招银](./IEFs/LiuJing.md#招银)、[好未来](./IEFs/LiuJing.md#好未来)、[深信服](./IEFs/LiuJing.md#shenxinfu)| 2017/9/23 | 更新深信服面试 |
 |[YanBo](./IEFs/YanBo.md) | xxx | [阿里](./IEFs/YanBo.md#ali)、[CVTE](./IEFs/YanBo.md#cvte)| 2017/08/16 | |
@@ -38,7 +37,7 @@ The interview experience in 2017 campus recruitment.
 |[CouQiao](./IEFs/CouQiao.md) | 测试开发（Java）| [滴滴](./IEFs/CouQiao.md#didi) | 2017/9/19 | 添加滴滴1~4面面经 |
 |[ChangJingBo](./IEFs/ChangJingBo.md) | 软开 C++ |[招银](./IEFs/ChangJingBo.md#招银) | 2017/9/21|   招银面经 |
 |[ChenWan](./IEFs/ChenWan.md) | 测试 |[海康威视](./IEFs/ChenWan.md#haikang) | 2017/9/23 |   海康威视面经 |
-
+|[QQ](./IEFs/QQ.md)| 后台开发(C++)、运维、算法工程师| [阿里](./IEFs/QQ.md#mayijinfu)、[华为](./IEFs/QQ.md#huawei)、[百度内推](./IEFs/QQ.md#baidu_shanghai)、[宜高美](./IEFs/QQ.md#yigaomei)、<br>[多益](./IEFs/QQ.md#duoyi)、[搜狗](./IEFs/QQ.md#sougou)、[百度校招](./IEFs/QQ.md#baidu) 、[搜狐](./IEFs/QQ.md#sohu)、<br>[中兴](./IEFs/QQ.md#zhongxing)、[美团](./IEFs/QQ.md#meituan)、[小米](./IEFs/QQ.md#xiaomi)、[趋势科技](./IEFs/QQ.md#qushi)、<br>[链家](./IEFs/QQ.md#lianjia)| 2017/9/23| 更新美团、趋势、链家|
 
 
 ## 相关疑问

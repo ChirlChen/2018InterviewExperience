@@ -5,6 +5,9 @@ The interview experience in 2017 campus recruitment.
 ## 项目地址
 https://github.com/ChirlChen/2018InterviewExperience
 
+## gitpitch 访问方法
+https://gitpitch.com/ChirlChen/2018InterviewExperience/master (https://gitpitch.com/user/repo/branch)
+
 ---
 ## 项目说明
 - 主要用于分享2017~2018学年校园招聘面试经验。个人发现面试结束，花一个小时半个小时对自己的面试进行一下总结，真的能更好的积累知识，增长经验。所以在此立贴督促自己，也欢迎大家一起参与进来实时的分享面经，**争取前面人家趟过的坑，后面的同学绝不再趟**。愿大家相互协作，共同提高，最终都找到如意的工作！
